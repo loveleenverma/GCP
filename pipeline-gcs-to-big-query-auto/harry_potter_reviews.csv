@@ -1,0 +1,12 @@
+user_id,user_sex,user_age,user_country,rating,comment,favourite_character,date
+0,female,50,Germany,2.5,"""The transitions between scenes were awkward, and the soundtrack was forgettable.""",Severus Snape,12/27/2004
+1,female,23,Spain,4,"""Severus Snape's role adds an intriguing layer.""",Severus Snape,11/22/2003
+2,male,32,France,3,"""The pacing was a bit slow, but the characters were charming.""",Ron Weasley,9/16/2005
+3,female,24,Turkey,4.5,"""Hagrid's love for magical creatures is heartwarming.""",Rubeus Hagrid,9/17/2002
+4,female,40,Spain,5,"""Neville Longbottom's courage is awe-inspiring.""",Neville Longbottom,10/17/2004
+5,female,16,Finland,5,"""Rubeus Hagrid's love for magical creatures is endearing.""",Rubeus Hagrid,12/2/2002
+6,male,26,Germany,4,"""Severus Snape's complexity adds depth to the story.""",Severus Snape,11/28/2005
+7,female,28,Sweden,2.5,"""Albus Dumbledore's presence feels unnecessary and distracting.""",Albus Dumbledore,2/10/2005
+8,female,52,Switzerland,4,"""Ron Weasley's humor adds a delightful touch.""",Ron Weasley,2/2/2002
+9,female,46,Turkey,4.5,"""Hermione Granger's determination is inspiring.""",Hermione Granger,12/2/2005
+10,male,34,Switzerland,4,"""The seamless transitions between scenes added to the overall magic.""",Hermione Granger,9/1/2002
